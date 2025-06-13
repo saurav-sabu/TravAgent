@@ -8,5 +8,3 @@ fastapi
 uvicorn
 pydantic
 python-dotenv
-chromadb
-pysqlite3-binary
