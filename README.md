@@ -22,7 +22,7 @@
 
 ### **🚀 Try TravAgent Now!**
 
-[![Launch TravAgent](https://img.shields.io/badge/🌐_Launch_TravAgent-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=262730)]([YOUR_STREAMLIT_APP_URL_HERE](https://travagent.onrender.com/))
+[![Launch TravAgent](https://img.shields.io/badge/🌐_Launch_TravAgent-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=262730)](https://travagent.onrender.com/)
 
 **👆 Click above to access the live application**
 
