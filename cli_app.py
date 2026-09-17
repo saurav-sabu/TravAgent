@@ -27,7 +27,7 @@ class TripCrew():
         self.cities = cities
         self.date_range = date_range
         self.interests = interests
-        self.llm = LLM(model="gemini/gemini-2.0-flash")
+        self.llm = LLM(model="gemini/gemini-2.5-flash")
 
     def run(self):
         """
