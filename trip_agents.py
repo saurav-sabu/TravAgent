@@ -23,7 +23,7 @@ class TripAgents():
 
     def __init__(self):
         logging.info("Initializing TripAgents...")
-        self.llm = LLM(model="gemini/gemini-2.0-flash")
+        self.llm = LLM(model="gemini/gemini-2.5-flash")
         self.search_tool = SearchTools()
         self.browser_tool = BrowserTools()
         self.calculator_tool = CalculatorTools()
