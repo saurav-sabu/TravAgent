@@ -61,7 +61,7 @@ class BrowserTools(BaseTool):
             summaries = []
 
             logger.info("Initializing LLM model")
-            llm = LLM(model="gemini/gemini-2.0-flash")
+            llm = LLM(model="gemini/gemini-2.5-flash")
 
             for idx, chunk in enumerate(content_chunks):
                 logger.info(f"Processing chunk {idx+1}/{len(content_chunks)}")
